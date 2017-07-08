@@ -1,6 +1,7 @@
 # liri-node-app
 
-# Date Created: 05/08/2017
+# Date Created:
+05/08/2017
 
 # General Usage Notes
 Starting file is liri.js with inquirer. User will select from a list of choices to select tweets, movies, spotify songs and whatever the user inputs. Based on the data that was selected and entered, the user will be given tweets, movie titles and spotify songs back using express and request modules to call the APIs of twitter, spotify and omdb. 
